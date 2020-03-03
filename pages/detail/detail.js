@@ -41,7 +41,7 @@ Page({
       "date": "2-26",
       "id": '',
       "playCount": "101.8万",
-      "videoSrc": "https://cn-jsnt-dx-v-10.bilivideo.com/upgcxcode/98/34/156813498/156813498-1-16.mp4?expires=1583210100&platform=html5&ssig=GdThbx-lPT0FK4Dq-ZKByQ&oi=1699834782&trid=e132472277e94599bbb38dca8479a7cfh&nfc=1&nfb=maPYqpoel5MI3qOUX6YpRA==&mid=0",
+      "videoSrc": "https://cn-jsnt-dx-v-10.bilivideo.com/upgcxcode/98/34/156813498/156813498-1-16.mp4?expires=1583229600&platform=html5&ssig=tyKO_hlc5fGCxfiCd5nsnw&oi=1699834782&trid=96d156cf1def4c2198e9ec081485a7e3h&nfc=1&nfb=maPYqpoel5MI3qOUX6YpRA==&mid=0",
       "videoTitle": "这十个软件,让你的电脑舒适度提升1400%"
     }
     this.setData({
