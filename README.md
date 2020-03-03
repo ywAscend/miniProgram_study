@@ -1,5 +1,5 @@
 # miniProgram_study
-a  mini program demo from practice
+a  mini program demo for practice
 
 #bilibili home page demo
 
